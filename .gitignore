@@ -16,3 +16,10 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+# Ignore mac dir files
+.DS_Store
+*/.DS_Store
+
+# Ignore RubyMine project files
+.idea
